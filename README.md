@@ -5,6 +5,9 @@ The project implements a Deep Q-Learning agent that learns to play the Snake gam
 
 ![After 80 iteration learns to go for the rat](Figure_1.png)
 
+Make sure to install the following Python packages before running the code:
+pip install matplotlib torch numpy pygame-ce ipython
+
 
 What Could Be Improved
 Enable the snake to wrap around the walls instead of dying on collision.
