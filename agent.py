@@ -8,6 +8,7 @@ from helper import plot
 
 # For long memory.
 MAX_MEMORY = 100_000
+# For short memory.
 BATCH_SIZE = 1000
 # Learning Rate.
 LR = 0.001
