@@ -1,5 +1,5 @@
 # SnakeAI
-Python Snake Game AI with DQN
+Python Snake Game AI with DQN (Model Based reflex Agent)
 
 The project implements a Deep Q-Learning agent that learns to play the Snake game by interacting with the environment, storing experiences, and training a neural network to predict the best moves. It balances exploration and exploitation, updates its strategy using rewards and future predictions, and improves over time through repeated gameplay and training.
 
